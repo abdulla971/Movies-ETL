@@ -11,3 +11,8 @@ For this analysis we performed the following:
 4. Load the data to a PostgreSQL Movie Database.
 	
 The ETL process is performed using four Jupiter notebook and details are provided below:
+
+## Results
+
+### First, the ETL function is written to read three data files
+
