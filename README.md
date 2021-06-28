@@ -25,5 +25,6 @@ Same as before the redundant data is consolidated, the duplicates is removed, an
 <br/>
 ### PostgreSQL is used and the data is loaded into the Movie database.
 <br/>
+
 ### Summary
 The ETL function is used to create, collect and clean movie data from multiple sources. It also transforms and merges data and load it into PostgreSQL and are at this stage put into tables that are ready to use in the Amazing Prime Hackathon.
