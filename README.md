@@ -17,3 +17,6 @@ The ETL process is performed using four Jupiter notebook and details are provide
 ### First, the ETL function is written to read three data files
 Where the function inputs the Wikipedia JSON, Kaggle metadata and MovieLens csv files and ultimately creates three separate DataFrames which we later use.
 <br/>
+### The Wikipedia data is extracted and transformed.
+The TV shows are filtered and the redundant data is consolidated, also in addition to that any duplicates are removed as well, lastly formatted the Wikipedia data
+<br/>
