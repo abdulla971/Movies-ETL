@@ -15,4 +15,5 @@ The ETL process is performed using four Jupiter notebook and details are provide
 ## Results
 
 ### First, the ETL function is written to read three data files
-
+Where the function inputs the Wikipedia JSON, Kaggle metadata and MovieLens csv files and ultimately creates three separate DataFrames which we later use.
+<br/>
