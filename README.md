@@ -14,16 +14,16 @@ The ETL process is performed using four Jupiter notebook and details are provide
 
 ## Results
 
-### First, the ETL function is written to read three data files
+## First, the ETL function is written to read three data files
 Where the function inputs the Wikipedia JSON, Kaggle metadata and MovieLens csv files and ultimately creates three separate DataFrames which we later use.
 <br/>
-### The Wikipedia data is extracted and transformed.
+## The Wikipedia data is extracted and transformed.
 The TV shows are filtered and the redundant data is consolidated, also in addition to that any duplicates are removed as well, lastly formatted the Wikipedia data
 <br/>
-### The Kaggle and rating data is extracted and transformed.
+## The Kaggle and rating data is extracted and transformed.
 Same as before the redundant data is consolidated, the duplicates is removed, and the data is formatted and grouped. The all the three data is merged the Kaggle and rating data with the Wikipedia movies Dataframe.
 <br/>
-### PostgreSQL is used and the data is loaded into the Movie database.
+## PostgreSQL is used and the data is loaded into the Movie database.
 
 ### Summary
 The ETL function is used to create, collect and clean movie data from multiple sources. It also transforms and merges data and load it into PostgreSQL and are at this stage put into tables that are ready to use in the Amazing Prime Hackathon.
