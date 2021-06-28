@@ -20,3 +20,6 @@ Where the function inputs the Wikipedia JSON, Kaggle metadata and MovieLens csv 
 ### The Wikipedia data is extracted and transformed.
 The TV shows are filtered and the redundant data is consolidated, also in addition to that any duplicates are removed as well, lastly formatted the Wikipedia data
 <br/>
+### The Kaggle and rating data is extracted and transformed.
+Same as before the redundant data is consolidated, the duplicates is removed, and the data is formatted and grouped. The all the three data is merged the Kaggle and rating data with the Wikipedia movies Dataframe.
+<br/>
