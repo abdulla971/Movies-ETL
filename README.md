@@ -24,6 +24,6 @@ The TV shows are filtered and the redundant data is consolidated, also in additi
 Same as before the redundant data is consolidated, the duplicates is removed, and the data is formatted and grouped. The all the three data is merged the Kaggle and rating data with the Wikipedia movies Dataframe.
 <br/>
 ### PostgreSQL is used and the data is loaded into the Movie database.
-<br/>
+
 ### Summary
 The ETL function is used to create, collect and clean movie data from multiple sources. It also transforms and merges data and load it into PostgreSQL and are at this stage put into tables that are ready to use in the Amazing Prime Hackathon.
