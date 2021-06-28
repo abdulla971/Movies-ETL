@@ -5,7 +5,7 @@ This project introduced us to the concepts of Extract, Transform and Load proces
 In this project we created an automated pipeline that inputs new data, from Wikipedia data, Kaggle metadata and the MovieLens rating data, for the Amazing Prime Hackathon. Then we transformed the data and loaded the data into an existing PostgreSQL database.
 
 For this analysis we performed the following:
-	1.	Write an ETL function to read three data files,
-	2.	Extract and transform the Wikipedia data,
-	3.	Extract and transform the Kaggle and rating data,
-	4.	Load the data to a PostgreSQL Movie Database.
+	1. Write an ETL function to read three data files,
+	2. Extract and transform the Wikipedia data,
+	3. Extract and transform the Kaggle and rating data,
+	4. Load the data to a PostgreSQL Movie Database.
