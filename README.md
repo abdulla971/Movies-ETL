@@ -10,4 +10,4 @@ For this analysis we performed the following:
 3. Extract and transform the Kaggle and rating data,
 4. Load the data to a PostgreSQL Movie Database.
 	
-The ETL process is performed using four Jupiter notebook files that are explained below:
+The ETL process is performed using four Jupiter notebook and details are provided below:
